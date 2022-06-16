@@ -1,0 +1,4 @@
+version: "3.9"
+services:
+  onion-service:
+    image: "mucahitkurtlar/onion-service:latest"
